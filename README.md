@@ -8,3 +8,10 @@ English - Plain Text
 English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
 German - Plain Text  
 German - PDF  
+
+## The Hindu Gods.
+
+English - Plain Text  
+English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
+German - Plain Text  
+German - PDF  
